@@ -1,6 +1,6 @@
 [Назад](Readme.md)
 
-# Нормы поведения
+# Нормы поведения для встречи
 
 [In English](code-of-conduct-meetup.md)
 

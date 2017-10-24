@@ -1,6 +1,6 @@
 [Назад](Readme.md)
 
-# Нормы поведения
+# Нормы поведения для конференции
 
 [In English](code-of-conduct-conference.md)
 

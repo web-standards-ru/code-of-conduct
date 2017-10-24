@@ -1,6 +1,6 @@
-[Назад](Readme.md)
+[Return](Readme.md)
 
-# Code of conduct
+# Code of conduct for meetup
 
 [По-русски](code-of-conduct-meetup-rus.md)
 
